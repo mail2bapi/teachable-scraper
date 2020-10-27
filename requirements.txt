@@ -8,7 +8,7 @@ cfscrape==2.1.1
 chardet==3.0.4
 cloudscraper==1.2.28
 constantly==15.1.0
-cryptography==2.8
+cryptography==3.2
 cssselect==1.1.0
 html5lib==1.0.1
 hyperlink==19.0.0
