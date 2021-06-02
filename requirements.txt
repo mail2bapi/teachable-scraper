@@ -35,7 +35,7 @@ service-identity==18.1.0
 six==1.14.0
 soupsieve==1.9.5
 Twisted>=20.3.0
-urllib3==1.25.8
+urllib3==1.26.5
 w3lib==1.21.0
 webencodings==0.5.1
 zope.interface==4.7.1
