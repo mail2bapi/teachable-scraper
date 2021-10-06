@@ -29,7 +29,7 @@ random2==1.0.1
 requests==2.22.0
 requests-toolbelt==0.9.1
 scraperapi-sdk==0.2.2
-Scrapy==1.8.0
+Scrapy==1.8.1
 selenium==3.141.0
 service-identity==18.1.0
 six==1.14.0
